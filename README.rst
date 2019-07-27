@@ -1,6 +1,3 @@
-# Dijkstra
-Dijkstra Implementation with Python 2.7
-
 heapdict: a heap with decreased-key and increase-key operations
 ===============================================================
 

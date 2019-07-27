@@ -1,0 +1,103 @@
+{
+  "start-point": "u",
+  "links": [
+    {
+      "points": [
+        "u",
+        "A"
+      ],
+      "weight": 2
+    },
+    {
+      "points": [
+        "u",
+        "C"
+      ],
+      "weight": 1
+    },
+    {
+      "points": [
+        "u",
+        "D"
+      ],
+      "weight": 3
+    },
+    {
+      "points": [
+        "A",
+        "B"
+      ],
+      "weight": 4
+    },
+    {
+      "points": [
+        "A",
+        "C"
+      ],
+      "weight": 2
+    },
+    {
+      "points": [
+        "B",
+        "C"
+      ],
+      "weight": 2
+    },
+    {
+      "points": [
+        "B",
+        "E"
+      ],
+      "weight": 2
+    },
+    {
+      "points": [
+        "C",
+        "D"
+      ],
+      "weight": 1
+    },
+    {
+      "points": [
+        "C",
+        "E"
+      ],
+      "weight": 5
+    },
+    {
+      "points": [
+        "C",
+        "F"
+      ],
+      "weight": 8
+    },
+    {
+      "points": [
+        "D",
+        "G"
+      ],
+      "weight": 3
+    },
+    {
+      "points": [
+        "E",
+        "H"
+      ],
+      "weight": 1
+    },
+    {
+      "points": [
+        "F",
+        "G"
+      ],
+      "weight": 3
+    },
+    {
+      "points": [
+        "F",
+        "H"
+      ],
+      "weight": 1
+    }
+  ]
+}
